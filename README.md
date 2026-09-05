@@ -32,7 +32,9 @@ references/                 # 证据、摄取和库结构规范
 
 ## 版本
 
-当前版本：`1.0.0`
+当前版本：`1.1.0`
+
+1.1.0 新增首次配置引导：Skill 会先了解用户身份、用途、资料域、隐私边界和偏好，提出个性化架构草案；用户确认后生成 Mermaid 知识库架构图。
 
 ---
 
@@ -62,4 +64,6 @@ This repository contains only the generic Skill. It does not contain anyone's pr
 
 ## Version
 
-Current version: `1.0.0`
+Current version: `1.1.0`
+
+Version 1.1.0 adds first-run onboarding: the Skill asks about identity, goals, domains, privacy boundaries, and preferences, proposes a tailored architecture, and generates a Mermaid architecture diagram after confirmation.
