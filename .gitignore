@@ -4,3 +4,6 @@
 !.gitignore
 !personal-knowledge-base/
 !personal-knowledge-base/**
+!README.md
+!LICENSE
+!CHANGELOG.md
