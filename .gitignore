@@ -1,0 +1,6 @@
+# Public release scope: this repository publishes only the generic Skill.
+# Personal vaults and local project materials must never enter the public repo.
+*
+!.gitignore
+!personal-knowledge-base/
+!personal-knowledge-base/**
